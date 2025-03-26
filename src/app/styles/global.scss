@@ -36,7 +36,7 @@ body {
   scroll-behavior: smooth;
   @include m.font("SFProText");
   color: v.$text-dark;
-  background-color: v.$bg;
+  background-color: #f4faff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
