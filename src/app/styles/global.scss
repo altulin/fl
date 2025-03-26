@@ -52,11 +52,12 @@ body {
   }
 
   &::-webkit-scrollbar-track {
-    background-color: #a70e13;
+    background-color: #f4faff;
   }
 
   &::-webkit-scrollbar-thumb {
-    background-color: #f5ec5a;
+    background-color: #9bcffd;
+    border-radius: 0.5rem;
   }
 }
 
